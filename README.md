@@ -5,4 +5,5 @@ hello
 welcome
 gih
 hello
-duo git 
+duo
+hi
